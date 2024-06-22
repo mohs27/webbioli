@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Link from "next/link";
+import Link from "https://malipor.ir";
 import React, { ReactElement } from "react";
 
 const Home = () => {
